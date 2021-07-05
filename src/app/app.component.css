@@ -1,0 +1,17 @@
+
+.wrapper
+{
+    border: 2px solid blue;
+    margin: 25px auto;
+    width: 750px;
+    height: 500px;
+}
+.wrapper .productsList
+{
+    margin-top: 25px;
+    width: 500px;
+    height: 400px;
+    background: lightgray;
+    float: left;
+}
+

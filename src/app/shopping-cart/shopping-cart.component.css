@@ -1,0 +1,28 @@
+.shoppingCart
+{
+    margin-top: 25px;
+    width: 200px;
+    margin-left:20px;
+    background: lightyellow;
+    float: left;
+}
+
+.shoppingCartList
+{
+    width: 200px;
+    height: 300px;
+    margin-left:20px;
+    background: lightblue;
+    overflow-y: auto;
+    float: left;
+   
+    
+}
+.shoppingCartTotal
+{
+    width: 200px;
+    height: 100px;
+    margin-left:20px;
+    float: left;
+    background: rgb(14, 143, 175);
+}
